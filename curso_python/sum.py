@@ -13,3 +13,6 @@ print(sum(numeros, -2))
 numeros = [1, 2.5, True]
 print(f"\n{numeros}")
 print(sum(numeros))
+
+lista = [1, 2, "a"]
+#print(f"\n{sum(lista)}")
