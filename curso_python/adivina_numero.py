@@ -26,3 +26,4 @@ except Exception as e:
     print("Operación no valida", e)
 finally:
     print("Gracias por jugar")
+input("Presiona enter para salir: ")
